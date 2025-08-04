@@ -1,5 +1,6 @@
 { "compressionlevel":-1,
  "height":28,
+ "width":40,
  "infinite":false,
  "layers":[
         {
@@ -17,8 +18,8 @@
                  "type":"",
                  "visible":true,
                  "width":1440,
-                 "x":0.930233,
-                 "y":1025.95
+                 "x":0,
+                 "y":1026
                 },
                 {
                  "gid":1,
@@ -1389,6 +1390,5 @@
         }],
  "tilewidth":36,
  "type":"map",
- "version":"1.10",
- "width":40
+ "version":"1.10"
 }
